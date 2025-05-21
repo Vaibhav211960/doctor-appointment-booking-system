@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.active li{
+   /* display: none; */
+   /* text-decoration: underline; */
+    font-weight: 100;
+}
